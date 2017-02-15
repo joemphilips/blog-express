@@ -1,3 +1,4 @@
+<<<<<<< 485fa10ad917c003a71ad62386ee62c97460a37c
 # Logs
 logs
 *.log
@@ -35,3 +36,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+
+
+app/node_modules
